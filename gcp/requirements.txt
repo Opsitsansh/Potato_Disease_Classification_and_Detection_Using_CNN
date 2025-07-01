@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pillow
+google-cloud-storage
+functions-framework
+flask
