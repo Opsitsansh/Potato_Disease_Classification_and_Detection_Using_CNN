@@ -1,0 +1,7 @@
+tensorflow==2.5.0 (done)
+fastapi (done)
+uvicorn (done)
+python-multipart (done)
+tensorflow-serving-api==2.5.0
+matplotlib
+numpy
